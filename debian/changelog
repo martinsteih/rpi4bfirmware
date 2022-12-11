@@ -1,0 +1,6 @@
+rpi4bfirmware (1.0.0-1) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- martin <>  Sun, 11 Dec 2022 13:38:04 -0700
